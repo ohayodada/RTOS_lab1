@@ -14,7 +14,7 @@ rosrun turtlesim turlesim_node
 
 rosrun autoturtle random_swim_school.py
 
-Problem 3: back_to_square_one.py
+Problem 3: back_to_square_one
 
 rosrun turtlesim turlesim_node
   
