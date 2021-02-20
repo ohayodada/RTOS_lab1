@@ -25,4 +25,8 @@ rosrun turtlesim turlesim_node
   
 rosrun autoturtle back_to_square_one.py
  
-  
+Problem 4: swim_to_goal
+
+rosrun turtlesim turlesim_node
+
+rosrun autoturtle swim_to_goal.py
